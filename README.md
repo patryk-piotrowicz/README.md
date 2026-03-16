@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME.png" alt="Profile Picture" width="150" />
+  <img src="https://github.com/patryk-piotrowicz.png" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Patryk Piotrowicz </h1>

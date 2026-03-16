@@ -1,4 +1,4 @@
-<!-- Profile Picture -->
+![alt text](https://github.com/[patryk-piotrowicz]/[reponame]/blob/[branch]/image.jpg?raw=true)
 <p align="center">
   <img src="" alt="Profile Picture" width="150" />
 </p>

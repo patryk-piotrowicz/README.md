@@ -86,12 +86,16 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="[Https://](https://www.linkedin.com/in/patryk-piotrowicz-5b39492b6/)" target="_blank">
+  <a href="https://www.linkedin.com/in/patryk-piotrowicz-5b39492b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="patryk.piotrowicz13@gmail.com">
+  <a href="mailto:patryk.piotrowicz13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+<!-- Twitter-->
+  <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
   </a>
 
 </p>

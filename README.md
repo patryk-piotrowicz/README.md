@@ -93,10 +93,6 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <a href="mailto:patryk.piotrowicz13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-<!-- Twitter-->
-  <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
-  </a>
 
 </p>
 

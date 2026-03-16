@@ -1,10 +1,10 @@
-![alt text](https://github.com/[patryk-piotrowicz]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<!-- Profile Picture -->
 <p align="center">
   <img src="" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME_HERE</h1>
-<h2 align="center">R&E Systems and Data Officer | Data Analysis | Power BI Dashboards @ University of Wolverhampton</h2>
+<h1 align="center">Hi, I'm Patryk Piotrowicz </h1>
+<h2 align="center">Aspiring Data Analyst | IT Online Learning Data Analysis Certified | CompTIA Data+ Certified | Customer Experience Background</h2>
 
 ---
 
@@ -28,11 +28,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ### Programming & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-F527CF?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
@@ -88,16 +86,12 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="Https://" target="_blank">
+  <a href="[Https://](https://www.linkedin.com/in/patryk-piotrowicz-5b39492b6/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="YOUR_EMAIL_HERE">
+  <a href="patryk.piotrowicz13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-<!-- Twitter-->
-  <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
   </a>
 
 </p>
